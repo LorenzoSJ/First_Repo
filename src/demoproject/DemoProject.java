@@ -16,6 +16,7 @@ public class DemoProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //showing fetch and merge
         //Making a change on remote
         System.out.println("Hello");
         
